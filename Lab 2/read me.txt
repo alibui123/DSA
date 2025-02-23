@@ -1,0 +1,1 @@
+we have learned about postfix conversion,evaluation,reverse a string using stack.
