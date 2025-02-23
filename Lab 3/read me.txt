@@ -1,0 +1,1 @@
+we have used functions to calculate power,binomial coefficients and prime numbers validity.
